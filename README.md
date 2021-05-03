@@ -1,11 +1,8 @@
 # 4332_assignment2
-+ Predictions on test data (please make sure your pred.csv’s format is
-same as test.csv: src/dst/score)
-+ Report (1~2 pages)
-+ Code (Frameworks and even programming languages are not
-restricted.)
-+ DDL: May 3, 2021
-+ Submission: Each team leader is required to submit the groupNo.zip
-file that contains pred.csv, the report, and your team’s code on
-canvas.
-+ we will check your report with your code and the accuracy.
+Our submission contains 5 main files: Graph_Analysis.ipynb, Initial_Tuning.ipynb, Best_Model.ipynb, pred.csv, README.md  
++ Graphy.ipynb: exploring graph with some visualization  
++ Initial_Tuning.ipynb: Our initial trials to fintune the parameters of deepwalk and node2vector  
++ Best_Model.ipynb: Tuning hyperparameters of epochs and learning rate of word2vector, and find the best model to finish out prediction task.  
+
+## Reminder  
+When checking our code, please follow the above instruction. The most important file which contains out final result is **Best_Model.ipynb**
