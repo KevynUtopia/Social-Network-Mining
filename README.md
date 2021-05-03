@@ -1,4 +1,5 @@
 # 4332_assignment2
+## Files:  
 Our submission contains 5 main files: Graph_Analysis.ipynb, Initial_Tuning.ipynb, Best_Model.ipynb, pred.csv, README.md  
 + Graphy.ipynb: exploring graph with some visualization  
 + Initial_Tuning.ipynb: Our initial trials to fintune the parameters of deepwalk and node2vector  
