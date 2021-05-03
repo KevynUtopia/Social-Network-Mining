@@ -5,5 +5,8 @@ Our submission contains 5 main files: Graph_Analysis.ipynb, Initial_Tuning.ipynb
 + Initial_Tuning.ipynb: Our initial trials to fintune the parameters of deepwalk and node2vector  
 + Best_Model.ipynb: Tuning hyperparameters of epochs and learning rate of word2vector, and find the best model to finish out prediction task.  
 
+## Results:  
+our best model performs 0.9391 in its AUC-ROC score.  
+
 ## Reminder  
 When checking our code, please follow the above instruction. The most important file which contains out final result is **Best_Model.ipynb**
